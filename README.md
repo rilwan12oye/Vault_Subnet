@@ -43,7 +43,7 @@ Currency Symbol:  TUTORIAL```. Use this information to set up a network on Metam
 - When you are done with everything, including interacting with the contract, type  ```avalanche network stop ``` to shut the subnet down.
 
 ## Authors
-Warith Adebowale
+Rilwan Oyewunmi Oyewunmi
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
