@@ -14,7 +14,7 @@ The contract has 6 user-defined functions:
 - userWithdraws(uint256 _value): Allows user to withdraw ether equivalent of their token.
 
 ## Getting Started
-```git clone https://github.com/devfola/Meta-Degen.git``` to clone the project. 
+```git clone https://github.com/rilwan12oye/Vault_Subnet``` to clone the project. 
 After cloning the GitHub, do the following to get the code running on your computer.
 
 - visit ```https://docs.avax.network/tooling/cli-guides/install-avalanche-cli``` to install avalanche CLI on your computer
